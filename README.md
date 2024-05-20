@@ -1,5 +1,7 @@
 # Eleven-nuclei-templates
 1、数据来源
+
+'''
 https://github.com/adysec/nuclei_poc
 https://github.com/projectdiscovery/nuclei-templates
 https://github.com/Str1am/my-nuclei-templates
@@ -17,5 +19,6 @@ https://github.com/yueyejian13/personal-nuclei-templates
 https://github.com/jhonnybonny/nuclei-templates-bitrix
 https://github.com/N-N33/Community-Nuclei-Templates
 https://github.com/lsr00ter/cent-nuclei-templates
+'''
 
 2、剔除其中数据库中不适用于nuclei的模版，如xray模版，并单独统计国内常见OA、ERP
